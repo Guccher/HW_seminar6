@@ -1,0 +1,15 @@
+C:\Users\gucch\Desktop\HW_seminar6\HW_seminar\bin\Debug\net6.0\HW_seminar.exe
+C:\Users\gucch\Desktop\HW_seminar6\HW_seminar\bin\Debug\net6.0\HW_seminar.deps.json
+C:\Users\gucch\Desktop\HW_seminar6\HW_seminar\bin\Debug\net6.0\HW_seminar.runtimeconfig.json
+C:\Users\gucch\Desktop\HW_seminar6\HW_seminar\bin\Debug\net6.0\HW_seminar.dll
+C:\Users\gucch\Desktop\HW_seminar6\HW_seminar\bin\Debug\net6.0\HW_seminar.pdb
+C:\Users\gucch\Desktop\HW_seminar6\HW_seminar\obj\Debug\net6.0\HW_seminar.csproj.AssemblyReference.cache
+C:\Users\gucch\Desktop\HW_seminar6\HW_seminar\obj\Debug\net6.0\HW_seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gucch\Desktop\HW_seminar6\HW_seminar\obj\Debug\net6.0\HW_seminar.AssemblyInfoInputs.cache
+C:\Users\gucch\Desktop\HW_seminar6\HW_seminar\obj\Debug\net6.0\HW_seminar.AssemblyInfo.cs
+C:\Users\gucch\Desktop\HW_seminar6\HW_seminar\obj\Debug\net6.0\HW_seminar.csproj.CoreCompileInputs.cache
+C:\Users\gucch\Desktop\HW_seminar6\HW_seminar\obj\Debug\net6.0\HW_seminar.dll
+C:\Users\gucch\Desktop\HW_seminar6\HW_seminar\obj\Debug\net6.0\refint\HW_seminar.dll
+C:\Users\gucch\Desktop\HW_seminar6\HW_seminar\obj\Debug\net6.0\HW_seminar.pdb
+C:\Users\gucch\Desktop\HW_seminar6\HW_seminar\obj\Debug\net6.0\HW_seminar.genruntimeconfig.cache
+C:\Users\gucch\Desktop\HW_seminar6\HW_seminar\obj\Debug\net6.0\ref\HW_seminar.dll
