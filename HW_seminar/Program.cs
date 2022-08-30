@@ -1,34 +1,20 @@
 ﻿// Задача №41
 
-// int[] CreateRandomArray(int size, int min, int max)
-// {
+//     Console.Write("Input size: ");
+//     int size = int.Parse(Console.ReadLine()!);
 //     int[] array = new int[size];
-//     for (int i = 0; i < size; i++)
+    
+//     for (int i = 0; i != size; i++)
 //     {
-//         array[i] = new Random().Next(min, max + 1);
+//         Console.Write("Input value: ");
+//         array[i] = int.Parse(Console.ReadLine()!);
+        
 //     }
-//     return array;
-// }
+    
+//     Console.WriteLine($"[{String.Join(", ", array)}]");
 
-// void ShowArray(int[] array)
-// {
 
-//     for (int i = 0; i < array.Length; i++)
-//     {
-//         Console.Write(array[i] + " ");
-//     }
-//     Console.WriteLine();
-// }
-
-// Console.WriteLine("Input size: ");
-// int size = int.Parse(Console.ReadLine() ?? "0");
-// Console.WriteLine("Input min: ");
-// int min = int.Parse(Console.ReadLine() ?? "0");
-// Console.WriteLine("Input max: ");
-// int max = int.Parse(Console.ReadLine() ?? "0");
 // int count = 0;
-// int[] array = CreateRandomArray(size, min, max);
-// ShowArray(array);
 // for (int i = 0; i < array.Length; i++)
 // {
 //  if (array[i] > 0)
@@ -37,7 +23,7 @@
 //  }
 
 // }
-// Console.WriteLine(count);
+// Console.WriteLine($"number of numbers > 0 = "+ count);
 
 
 // Задача №43
@@ -51,18 +37,25 @@
 // Console.Write("Input k2: ");
 // double k2 = double.Parse(Console.ReadLine() ?? "0");
 
+// if (k1 == k2)
+// {
+//     Console.WriteLine("the data is straight parallel or equal");
+// }
+// else
+// {
 // double x = ((b2-b1)/(k1-k2));
 // double y = ((k1*x) + b1);
 // Console.WriteLine($"x={x:f1}");
 // Console.WriteLine($"y={y:f1}");
+// }
 
 
 // Задача №42
 
 // Console.Clear();
 // Console.Write("Input number: ");
-// double number = double.Parse(Console.ReadLine() ?? "0");
-// double[] array = new double[8];
+// int number = int.Parse(Console.ReadLine()!);
+// int[] array = new int[31];
 // array[0] = number;
 // for (int i = 1; i < array.Length; i++)
 // {
